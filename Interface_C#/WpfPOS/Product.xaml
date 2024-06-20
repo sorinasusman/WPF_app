@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfPOS.Product"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfPOS"
+        mc:Ignorable="d"
+        Title="Product" Height="450" Width="800">
+    <Grid Background="#FF5CB6BD">
+        <Label Content="Enter details about the product" HorizontalAlignment="Center" Margin="0,18,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20"/>
+
+        <Label Content="Product Name:" HorizontalAlignment="Left" Margin="289,56,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
+        <TextBox x:Name="productNameTextBox" HorizontalAlignment="Left" Margin="400,60,0,0" VerticalAlignment="Top" Width="200" Height="22"/>
+
+        <Label Content="Internal Code:" HorizontalAlignment="Left" Margin="294,106,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Times New Roman"/>
+        <TextBox x:Name="internalCodeTextBox" HorizontalAlignment="Left" Margin="400,110,0,0" VerticalAlignment="Top" Width="200" Height="22"/>
+
+        <Label Content="Price:" HorizontalAlignment="Left" Margin="293,156,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.682,2.32" Width="85" FontSize="16" FontFamily="Times New Roman"/>
+        <TextBox x:Name="priceTextBox" HorizontalAlignment="Left" Margin="400,160,0,0" VerticalAlignment="Top" Width="200" Height="22"/>
+
+        <Label Content="Producer:" HorizontalAlignment="Left" Margin="293,206,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.682,2.32" Width="85" FontFamily="Times New Roman" FontSize="16"/>
+        <TextBox x:Name="producatorTextBox" HorizontalAlignment="Left" Margin="400,210,0,0" VerticalAlignment="Top" Width="200" Height="22"/>
+
+        <Label Content="Category:" HorizontalAlignment="Left" Margin="294,256,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.682,2.32" Width="85" FontFamily="Times New Roman" FontSize="16"/>
+        <TextBox x:Name="categorieTextBox" HorizontalAlignment="Left" Margin="400,260,0,0" VerticalAlignment="Top" Width="200" Height="22"/>
+
+        <Button x:Name="productButton" Content="Add" HorizontalAlignment="Center" Margin="0,326,0,0" VerticalAlignment="Top" Width="140" Height="49" Click="productButton_Click" Background="#FF48C0FF" FontFamily="Times New Roman" FontSize="16" FontWeight="Bold"/>
+    </Grid>
+</Window>

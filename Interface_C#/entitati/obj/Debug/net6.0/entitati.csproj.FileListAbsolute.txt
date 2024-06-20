@@ -1,0 +1,83 @@
+X:\POO\entitati\bin\Debug\net6.0\entitati.deps.json
+X:\POO\entitati\bin\Debug\net6.0\entitati.dll
+X:\POO\entitati\bin\Debug\net6.0\entitati.pdb
+X:\POO\entitati\obj\Debug\net6.0\entitati.csproj.AssemblyReference.cache
+X:\POO\entitati\obj\Debug\net6.0\entitati.GeneratedMSBuildEditorConfig.editorconfig
+X:\POO\entitati\obj\Debug\net6.0\entitati.AssemblyInfoInputs.cache
+X:\POO\entitati\obj\Debug\net6.0\entitati.AssemblyInfo.cs
+X:\POO\entitati\obj\Debug\net6.0\entitati.csproj.CoreCompileInputs.cache
+X:\POO\entitati\obj\Debug\net6.0\entitati.dll
+X:\POO\entitati\obj\Debug\net6.0\refint\entitati.dll
+X:\POO\entitati\obj\Debug\net6.0\entitati.pdb
+X:\POO\entitati\obj\Debug\net6.0\ref\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\bin\Debug\net6.0\entitati.deps.json
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\bin\Debug\net6.0\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\bin\Debug\net6.0\entitati.pdb
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\obj\Debug\net6.0\entitati.csproj.AssemblyReference.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\obj\Debug\net6.0\entitati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\obj\Debug\net6.0\entitati.AssemblyInfoInputs.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\obj\Debug\net6.0\entitati.AssemblyInfo.cs
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\obj\Debug\net6.0\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\obj\Debug\net6.0\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\obj\Debug\net6.0\refint\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\obj\Debug\net6.0\entitati.pdb
+C:\Users\Silviu\Desktop\Sorina\POO\Program\entitati\obj\Debug\net6.0\ref\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\bin\Debug\net6.0\entitati.deps.json
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\bin\Debug\net6.0\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\bin\Debug\net6.0\entitati.pdb
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\obj\Debug\net6.0\entitati.csproj.AssemblyReference.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\obj\Debug\net6.0\entitati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\obj\Debug\net6.0\entitati.AssemblyInfoInputs.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\obj\Debug\net6.0\entitati.AssemblyInfo.cs
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\obj\Debug\net6.0\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\obj\Debug\net6.0\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\obj\Debug\net6.0\refint\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\obj\Debug\net6.0\entitati.pdb
+C:\Users\Silviu\Desktop\Sorina\POO\Program - Lab4\entitati\obj\Debug\net6.0\ref\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\bin\Debug\net6.0\entitati.deps.json
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\bin\Debug\net6.0\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\bin\Debug\net6.0\entitati.pdb
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\obj\Debug\net6.0\entitati.csproj.AssemblyReference.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\obj\Debug\net6.0\entitati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\obj\Debug\net6.0\entitati.AssemblyInfoInputs.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\obj\Debug\net6.0\entitati.AssemblyInfo.cs
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\obj\Debug\net6.0\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\obj\Debug\net6.0\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\obj\Debug\net6.0\refint\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\obj\Debug\net6.0\entitati.pdb
+C:\Users\Silviu\Desktop\Sorina\POO\Program -Copy\entitati\obj\Debug\net6.0\ref\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\bin\Debug\net6.0\entitati.deps.json
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\bin\Debug\net6.0\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\bin\Debug\net6.0\entitati.pdb
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\obj\Debug\net6.0\entitati.csproj.AssemblyReference.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\obj\Debug\net6.0\entitati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\obj\Debug\net6.0\entitati.AssemblyInfoInputs.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\obj\Debug\net6.0\entitati.AssemblyInfo.cs
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\obj\Debug\net6.0\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\obj\Debug\net6.0\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\obj\Debug\net6.0\refint\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\obj\Debug\net6.0\entitati.pdb
+C:\Users\Silviu\Desktop\Sorina\POO\Program-Lab 5, 6, 7\entitati\obj\Debug\net6.0\ref\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.csproj.AssemblyReference.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.AssemblyInfoInputs.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.AssemblyInfo.cs
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\refint\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.pdb
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\bin\Debug\net6.0\entitati.deps.json
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\bin\Debug\net6.0\entitati.dll
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\bin\Debug\net6.0\entitati.pdb
+C:\Users\Silviu\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\ref\entitati.dll
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\bin\Debug\net6.0\entitati.deps.json
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\bin\Debug\net6.0\entitati.dll
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\bin\Debug\net6.0\entitati.pdb
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.AssemblyInfoInputs.cache
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.AssemblyInfo.cs
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.csproj.CoreCompileInputs.cache
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.dll
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\refint\entitati.dll
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\entitati.pdb
+C:\Users\susma\Desktop\Sorina\POO\Interfata\entitati\obj\Debug\net6.0\ref\entitati.dll
